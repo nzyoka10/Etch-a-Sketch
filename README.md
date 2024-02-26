@@ -23,7 +23,7 @@
 
 ### Live Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://nzyoka10.github.io/Etch-a-Sketch/).
 
 ### How to Use
 
