@@ -23,9 +23,9 @@ body {
   }
 
   button{
-    width:  40%;
-    height: 50px;
-    display: block;
+    max-width:  40%;
+    height: 100px;
+    display: inline-block;
     margin: auto;
     margin-top: 20px;
     border-radius: 74px;
@@ -38,6 +38,7 @@ body {
   #container {
     background-color: #171616;
     display: flex;
+    cursor: crosshair;
     flex-wrap: wrap;
     max-width: 960px;
     margin: 20px auto;
